@@ -48,6 +48,6 @@ El objetivo de este sistema es permitir a los usuarios registrar información en
    ```bash
    git clone https://github.com/TU-USUARIO/proyecto-formulario.git
 
-   <img width="1918" height="1086" alt="image" src="https://github.com/user-attachments/assets/031dcdf2-78d7-42b5-86d7-6d1d3c3e426b" />
+
 
 
